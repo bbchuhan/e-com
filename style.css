@@ -1,0 +1,132 @@
+.babs{
+    position: fixed;
+    background-color: salmon;
+    width: 100%;
+    margin-top: -13px;
+}
+
+
+
+.ii{
+    display: inline-block;
+ }
+ .oo{
+     display: inline-block;
+     margin-left: 20px;
+ }
+ .ww{
+     display: inline-block;
+     margin-left: 20px;
+ }
+ .ll{
+     display: inline-block;
+     margin-left: 20px;
+ }
+ .zz{
+     display: inline-block;
+     margin-left: 20px;
+ }
+ .yy{
+     display: inline-block;
+     margin-left: 20px;
+ }
+ .uu{
+     height: 30px;
+     width: 800px;
+     margin-left: 50px;
+ }
+ .icone{
+     display: inline-block;
+     margin-left: 20px;
+ }
+ .icone1{
+     display: inline-block;
+     margin-left: 20px;
+ }
+ .icone2{
+     display: inline-block;
+     margin-left: 20px;
+ }
+ .ww{
+     margin-left: 20px;
+ }
+ .rr{
+     margin: 20px;
+ }
+ .qq{
+     margin-left: 20px;
+ }
+ .tt{
+     margin-left: 20px;
+ }
+ .kk{
+     margin-left: 20px;
+ }
+ .xx{
+     margin-left: 800px;
+ }
+ .prince{
+     margin-left: 500px;
+ }
+ .mm{
+     margin-left: 50px;
+ }
+ .b{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    color: white;
+    display: flex;
+    margin: 100px;
+    margin-top: 0px;
+    padding: 50px;
+    
+ }
+ .c{
+    margin: 100px;
+ }
+ .v{
+    margin: 100px;
+ }
+ .e{
+    margin: 100px;
+ }
+ .h{
+    margin: 100px;
+ }
+.i{
+    
+    height: 100px;
+    width: 100px;
+   position: relative;
+   left: 1650px;
+}
+.prodcut{
+    width: 100%;
+    border: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.newpro{
+    
+    width: 100%;
+    display: flex;
+    justify-content:space-between ;
+}
+.newbij{
+    border-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.log{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.sig{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
